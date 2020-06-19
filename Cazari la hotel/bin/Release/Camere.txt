@@ -1,0 +1,8 @@
+1,0,3,True,True,367
+2,0,2,False,False,200
+3,1,1,True,True,150
+4,1,1,True,True,200
+5,2,2,True,True,310
+6,2,4,True,True,500
+9,3,2,True,True,350
+10,4,2,True,True,378

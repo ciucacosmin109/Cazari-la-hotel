@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cazari la hotel", "Cazari la hotel\Cazari la hotel.csproj", "{5CDC6EA6-3F42-4258-94D8-EB6A5231E5DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77C13EA2-D51B-4332-991C-410966CA90E6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CDC6EA6-3F42-4258-94D8-EB6A5231E5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDC6EA6-3F42-4258-94D8-EB6A5231E5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDC6EA6-3F42-4258-94D8-EB6A5231E5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDC6EA6-3F42-4258-94D8-EB6A5231E5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A0D255-2506-48B5-AA9E-372EB976346E}
+	EndGlobalSection
+EndGlobal
